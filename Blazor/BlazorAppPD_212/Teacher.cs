@@ -1,7 +1,9 @@
-﻿namespace BlazorAppPD_212.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace BlazorAppPD_212.Models
 {
     public class Teacher : Human
-    {
-        public DateTime WorkSince { get; set; }
-    }
+	{
+		public DateTime WorkSince { get; set; }
+	}
 }
