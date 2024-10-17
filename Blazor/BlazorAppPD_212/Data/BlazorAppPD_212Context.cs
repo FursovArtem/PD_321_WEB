@@ -14,6 +14,7 @@ namespace BlazorAppPD_212.Data
         {
         }
 
-        public DbSet<BlazorAppPD_212.Models.Teacher> Teacher { get; set; } = default!;
+        public DbSet<BlazorAppPD_212.Models.Teacher> Teachers { get; set; } = default!;
+        public DbSet<BlazorAppPD_212.Models.Discipline> Disciplines { get; set; } = default!;
     }
 }

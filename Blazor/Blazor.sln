@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMovieApp", "BlazorMov
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoCrafts", "ContosoCrafts\ContosoCrafts.csproj", "{37404948-8CDF-4A65-91C3-4DB7604D9082}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dbTest", "dbTest", "{BCB516D4-D3E1-41AD-A913-B8FE69B93454}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoCrafts", "ContosoCrafts\ContosoCrafts.csproj", "{E1C8647B-D27C-4ECF-872D-2A15BC662C50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebApp", "BlazorWebApp\BlazorWebApp\BlazorWebApp.csproj", "{694F84C1-C0E8-45B8-A9DC-CA50CB8205C3}"
 EndProject
