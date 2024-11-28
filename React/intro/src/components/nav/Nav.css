@@ -1,0 +1,14 @@
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: #123f79a6;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0;
+}
+
+nav a {
+    color:#fcfeffec;
+    text-decoration: none;
+}
