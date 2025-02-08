@@ -1,5 +1,6 @@
-function Article()
+function Article(props)
 {
+    console.log(props.db);
     return(
             <article>
                 

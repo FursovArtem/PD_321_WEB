@@ -4,7 +4,7 @@ function Nav(props) {
     return (
         <nav>
             <ul>
-                {Object.keys(props.navigation).map(elem => <li><a href={props.navigation[elem]}>{elem}</a></li>)}
+                {Object.keys(props.navigation).map(elem => <li key={elem}><a href={props.navigation[elem]}>{elem}</a></li>)}
             </ul>
         </nav>
     )
